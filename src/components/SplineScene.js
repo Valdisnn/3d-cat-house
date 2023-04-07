@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Room from "../images/playroom.png";
+import Room from "../images/playroom.webp";
 
 export default function App() {
   return (

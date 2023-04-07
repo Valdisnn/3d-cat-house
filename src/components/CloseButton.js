@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import ButtonImage from "../images/close-button.png";
+import ButtonImage from "../images/close-button.webp";
 
 function CloseButton() {
   return (

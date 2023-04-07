@@ -9,7 +9,7 @@ import DownloadButton from "./components/DownloadButton";
 import SplineScene from "./components/SplineScene";
 import CloseButton from "./components/CloseButton";
 
-import ImageControl from "./images/controls.png";
+import ImageControl from "./images/controls.webp";
 
 export default function App() {
   return (
